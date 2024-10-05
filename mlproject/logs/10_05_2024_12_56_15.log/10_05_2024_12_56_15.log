@@ -1,0 +1,4 @@
+[ 2024-10-05 12:56:17,110] 9 root - INFO - The executio has started
+[ 2024-10-05 12:56:17,126] 17 root - INFO - Reading SQL database started
+[ 2024-10-05 12:56:17,126] 25 root - INFO - Connection Established: <pymysql.connections.Connection object at 0x0000013BB76BF390>
+[ 2024-10-05 12:56:17,157] 16 root - INFO - Custom Exception

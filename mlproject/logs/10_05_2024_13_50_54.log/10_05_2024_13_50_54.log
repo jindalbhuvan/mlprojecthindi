@@ -1,0 +1,4 @@
+[ 2024-10-05 13:50:56,250] 9 root - INFO - The execution has started
+[ 2024-10-05 13:50:56,250] 20 root - INFO - Reading SQL database started
+[ 2024-10-05 13:50:56,265] 24 root - INFO - Connection Established: Engine(mysql+pymysql://root:***@localhost:3306/college)
+[ 2024-10-05 13:50:56,298] 16 root - INFO - Custom Exception

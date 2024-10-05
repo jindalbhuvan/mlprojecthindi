@@ -1,0 +1,5 @@
+[ 2024-10-05 14:02:04,274] 9 root - INFO - The execution has started
+[ 2024-10-05 14:02:04,274] 20 root - INFO - Reading SQL database started
+[ 2024-10-05 14:02:04,290] 24 root - INFO - Connection Established: Engine(mysql+pymysql://root:***@localhost:3306/college)
+[ 2024-10-05 14:02:04,337] 25 root - INFO - Reading from sql database
+[ 2024-10-05 14:02:04,378] 33 root - INFO - data ingestion is completed
